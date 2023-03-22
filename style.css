@@ -1,0 +1,13 @@
+body{
+
+}
+h1, p{
+    text-align: center;
+}
+section{
+    margin-top: 20px;
+}
+section{
+    background-color: #1e9428;
+    padding:50px;
+}
